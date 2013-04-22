@@ -1,0 +1,20 @@
+<?
+return array(
+	'The data has been successfully updated!' => 'Данные были успешно обновлены!',
+	'Login' => 'Логин',
+	'Password' => 'Пароль',
+	'Repeat Password' => 'Пароль повторно',
+	'Save' => 'Сохранить',
+	'Reset' => 'Сбросить',
+	'Delete' => 'Удалить',
+	'Update' => 'Обновить',
+	'Yes' => 'Да',
+	'No' => 'Нет',
+	'Module'=>'Модуль',
+	'Version'=>'Версия',
+	'Date'=>'Дата',
+	'Info'=>'Инфо',
+	'Updating'=>'Обновление',
+	'Available'=>'Доступно',
+	'Not Available'=>'Не Доступно',
+);
